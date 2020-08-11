@@ -1,0 +1,1 @@
+void tableDraw(char table[10][10]);

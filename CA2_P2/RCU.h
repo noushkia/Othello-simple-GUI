@@ -1,0 +1,1 @@
+char RCU(char table[10][10], int* turn, int * checkEnd);

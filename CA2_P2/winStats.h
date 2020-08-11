@@ -1,0 +1,1 @@
+void winStats(char table[10][10]);
