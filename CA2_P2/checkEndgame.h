@@ -1,0 +1,1 @@
+int checkEndgame(char table[10][10]);

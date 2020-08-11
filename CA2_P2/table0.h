@@ -1,0 +1,1 @@
+void table0(char table[10][10]);

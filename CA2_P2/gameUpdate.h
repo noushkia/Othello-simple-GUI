@@ -1,0 +1,1 @@
+char gameUpdate(char table[10][10], int *turn, int inputh, int inputv);
